@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Senior Research Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -22,20 +22,22 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep Learning in Medical Applications
+- Medical Image Analysis
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: University of Texas at Arlington
+    year: 2019
+  - course: MEng in Signal and Information Processing
+    institution: Xi'an Jiaotong University
+    year: 2014
+  - course: BEng in Information Engineering
+    institution: Xi'an Jiaotong University
+    year: 2011
+  - course: Special Class for the Gifted-Young
+    institution: Xi'an Jiaotong University, 2005-2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +46,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: '#contact'  # For a direct email link, use "yjiaweneecs@gmail.com".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=krtXz3QAAAAJ&hl=en&authuser=1
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/utayao
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -69,5 +71,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
+About Me
 
-Jiawen Yao now is a senior research scientist at PAII Inc. He received his PhD degree in Computer Science from University of Texas at Arlington where he was under supervision from Dr. Junzhou Huang.
+I am a senior research scientist at [PAII Inc](http://www.paii-labs.com/). Before joining PAII in 2019, I obtained my PhD degree in Computer Science from University of Texas at Arlington under supervision from Dr. Junzhou Huang. I hold both Master and Bachelor Degree from Xi'an Jiaotong University in China. My research interests include computer vision and machine learning with a focus on medical imaging applications with deep learning-based approaches.
