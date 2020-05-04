@@ -73,4 +73,6 @@ user_groups:
 ---
 About Me
 
-I am a senior research scientist at [PAII Inc](http://www.paii-labs.com/). Before joining PAII in 2019, I obtained my PhD degree in Computer Science from University of Texas at Arlington under supervision from Dr. Junzhou Huang. I hold both Master and Bachelor Degree from Xi'an Jiaotong University in China. My research interests include computer vision and machine learning with a focus on medical imaging applications with deep learning-based approaches.
+I am a senior research scientist at [PAII Inc](http://www.paii-labs.com/). Before joining PAII in 2019, I obtained my PhD degree in Computer Science from University of Texas at Arlington under supervision from Dr. [Junzhou Huang](http://ranger.uta.edu/~huang/). I hold both Master's and Bachelor's Degree from Xi'an Jiaotong University in China. My research interests include computer vision and machine learning with a focus on medical imaging applications with deep learning-based approaches.
+
+I worked as research intern at NVIDIA and PAII in 2018 Summer and 2018 Fall, respectively.
