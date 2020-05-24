@@ -6,7 +6,7 @@ authors: ["Jiawen Yao", "Xinliang Zhu", "Junzhou Huang"]
 publication_types: ["1"]
 abstract: ""
 featured: true
-publication: "MICCAI 2019"
+publication: "*MICCAI 2019*"
 
 
 links:
@@ -21,10 +21,10 @@ url_project: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  preview_only: true
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#  focal_point: ""
+#  preview_only: false
   
 ---
 

@@ -6,6 +6,6 @@ authors: ["Jiawen Yao", "Jinzheng Cai", "Dong Yang", "Daguang Xu", "Junzhou Huan
 publication_types: ["1"]
 abstract: ""
 featured: true
-publication: "*MICCAI 2019.*"
+publication: "*MICCAI 2019*"
 ---
 
