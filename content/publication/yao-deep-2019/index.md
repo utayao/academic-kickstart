@@ -11,7 +11,6 @@ publication: "*MICCAI 2019*"
 
 links:
 url_pdf: https://link.springer.com/chapter/10.1007/978-3-030-32239-7_55
-url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
 url_project: ''
