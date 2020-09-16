@@ -14,3 +14,4 @@ doi: "10.1016/j.media.2020.101789"
 
 ---
 
+This is an improved version of our [MICCAI 19](https://link.springer.com/chapter/10.1007/978-3-030-32239-7_55) work.

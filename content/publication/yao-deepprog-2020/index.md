@@ -1,16 +1,16 @@
 ---
-title: "Deep Multi-instance Learning for Survival Prediction from Whole Slide Images"
-date: 2019-10-10
+title: "DeepPrognosis: Preoperative Prediction of Pancreatic Cancer Survival and Surgical Margin via Contrast-Enhanced CT Imaging"
+date: 2020-10-10
 publishDate: 2020-05-02T22:10:23.590297Z
-authors: ["Jiawen Yao", "Xinliang Zhu", "Junzhou Huang"]
+authors: ["Jiawen Yao", "Yu Shi", "Le Lu", "Jing Xiao", "Ling Zhang"]
 publication_types: ["1"]
 abstract: ""
 featured: true
-publication: "*MICCAI 2019*"
+publication: "*MICCAI 2020*"
 
 
 links:
-url_pdf: https://link.springer.com/chapter/10.1007/978-3-030-32239-7_55
+url_pdf: https://arxiv.org/abs/2008.11853
 #url_dataset: '#'
 #url_poster: '#'
 url_project: ''

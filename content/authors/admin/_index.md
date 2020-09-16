@@ -15,7 +15,7 @@ role: Senior Research Scientist
 # Organizations/Affiliations
 organizations:
 - name: PAII Inc
-  url: ""
+  url: "http://www.paii-labs.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include medical image analysis and precision medicine.
