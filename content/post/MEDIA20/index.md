@@ -1,11 +1,6 @@
 ---
-title: Two papers accepted by MICCAI 2020
-date: 2020-10-01
-math: true
-diagram: true
-image:
-  placement: 3
-  caption: MICCAI logo
+title: One paper accepted by MEDIA
+date: 2020-06-10
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -14,3 +9,4 @@ commentable: false  # Allow visitors to comment? Supported by the Page, Post, an
 editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
 ---
 
+Whole Slide Images based Cancer Survival Prediction using Attention Guided Deep Multiple Instance Learning Networks
